@@ -1,6 +1,5 @@
 {
   "name": "movie-app",
-  "homepage": "https://ashutosh-360.github.io/Movie-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
